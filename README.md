@@ -13,8 +13,8 @@ Developer at <a href="https://www.infovision.com.ng">InfoVision</a><img src="htt
 ```javascript
 const michael = {
   pronouns: "he" | "him",
-  code: [Javascript, C#, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Styled-Components, AWS],
+  code: [Javascript, C#, HTML, CSS, Python, Java, Solidity],
+  tools: [React, Redux, Node, Styled-Components, AWS, Web 3.0],
   architecture: ["microservices", "event-driven", "design system pattern"],
 
 }
