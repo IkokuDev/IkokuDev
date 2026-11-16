@@ -17,12 +17,12 @@
 
 ### 🚀 About Me
 
-I am a **Software & AI Engineer** and **Technical Lead** with **5+ years of experience** driving full-lifecycle software initiatives, cross-functional delivery, and secure system architecture[cite: 54]. Whether I'm translating high-level product goals into concrete engineering backlogs, designing audit-ready fintech pipelines, or building real-time computer vision models, I focus on shipping reliable, scalable, and compliant software[cite: 54].
+I am a **Software & AI Engineer** and **Technical Lead** with **5+ years of experience** driving full-lifecycle software initiatives, cross-functional delivery, and secure system architecture. Whether I'm translating high-level product goals into concrete engineering backlogs, designing audit-ready fintech pipelines, or building real-time computer vision models, I focus on shipping reliable, scalable, and compliant software.
 
-* 🔭 **Currently:** Leading technical execution as an **AI & Fintech Solutions Engineer / Technical Lead** at Nakachi Consulting[cite: 54].
-* 🛡️ **Leveling Up:** Preparing for the **AWS Certified Security – Specialty** certification[cite: 54].
-* 🌍 **Next Chapter:** Based in Abuja, Nigeria — **open to relocation to Germany** for Software Engineering, AI, or Technical Project Management roles[cite: 54].
-* 💬 **Ask Me About:** System Architecture, Fintech Security (JWT, RBAC, Audit Logs), Agile/SDLC Delivery, MERN Stack, and Computer Vision[cite: 54].
+* 🔭 **Currently:** Leading technical execution as an **AI & Fintech Solutions Engineer / Technical Lead** at Nakachi Consulting.
+* 🛡️ **Leveling Up:** Preparing for the **AWS Certified Security – Specialty** certification.
+* 🌍 **Next Chapter:** Based in Abuja, Nigeria — **open to relocation to Germany** for Software Engineering, AI, or Technical Project Management roles.
+* 💬 **Ask Me About:** System Architecture, Fintech Security (JWT, RBAC, Audit Logs), Agile/SDLC Delivery, MERN Stack, and Computer Vision.
 
 ---
 
@@ -56,24 +56,24 @@ I am a **Software & AI Engineer** and **Technical Lead** with **5+ years of expe
 ### 🏗️ Featured Work & Impact
 
 #### ⛽ [FuelX](https://github.com/IkokuDev) — *On-Demand Fuel Delivery Platform*
-> Architected an end-to-end logistics MVP featuring a deterministic integer-kobo pricing engine, concentric-ring driver dispatch, real-time Socket.IO GPS tracking, and cryptographic HMAC-SHA256 delivery handovers paired with tamper-evident station seals[cite: 1, 9, 10, 32, 33, 39, 40].
+> Architected an end-to-end logistics MVP featuring a deterministic integer-kobo pricing engine, concentric-ring driver dispatch, real-time Socket.IO GPS tracking, and cryptographic HMAC-SHA256 delivery handovers paired with tamper-evident station seals.
 
 #### 💳 Finhub — *Secure Enterprise Fintech Platform*
-> Spearheaded end-to-end system security at Nakachi Consulting—implementing encrypted transaction pipelines, RBAC access controls, custom rate-limiting, and immutable operational audit logs for regulatory compliance[cite: 54].
+> Spearheaded end-to-end system security at Nakachi Consulting—implementing encrypted transaction pipelines, RBAC access controls, custom rate-limiting, and immutable operational audit logs for regulatory compliance.
 
 #### 🤝 Mind Huddle — *Professional Networking Platform*
-> Led cross-functional sprint execution, API integration workflows, and architecture translation from business requirements to production deployment[cite: 54].
+> Led cross-functional sprint execution, API integration workflows, and architecture translation from business requirements to production deployment.
 
 #### 🖐️ Touchless HCI via Computer Vision — *B.Sc. Thesis Project*
-> Built a real-time computer vision system using **Python & OpenCV** enabling touchless hardware control (cursor navigation, volume, and slide control) via standard webcam feeds[cite: 54].
+> Built a real-time computer vision system using **Python & OpenCV** enabling touchless hardware control (cursor navigation, volume, and slide control) via standard webcam feeds.
 
 ---
 
 ### 🎓 Education & Credentials
 
-* **B.Sc. in Software Engineering** — *Baze University, Nigeria*[cite: 54]
-* **CertHE in AI & Robotics** — *University of Bedfordshire, UK*[cite: 54]
-* **AWS Certified Security – Specialty** — *In Progress*[cite: 54]
+* **B.Sc. in Software Engineering** — *Baze University, Nigeria*
+* **CertHE in AI & Robotics** — *University of Bedfordshire, UK*
+* **AWS Certified Security – Specialty** — *In Progress*
 
 ---
 
@@ -87,5 +87,5 @@ I am a **Software & AI Engineer** and **Technical Lead** with **5+ years of expe
 ---
 
 <div align="center">
-  <sub>💡 Always down to talk architecture, AI automation, or fintech engineering. Reach out at <a href="mailto:ikoku.michael@gmail.com">ikoku.michael@gmail.com</a>![cite: 54]</sub>
+  <sub>💡 Always down to talk architecture, AI automation, or fintech engineering. Reach out at <a href="mailto:ikoku.michael@gmail.com">ikoku.michael@gmail.com</a>!</sub>
 </div>
